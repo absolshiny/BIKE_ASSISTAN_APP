@@ -5,5 +5,8 @@ api_key="asdasfasfasda"
 
 def chatbot(request):
     user_input= request.POST.get("user_input")
-    print(user_input)
-    return render(request, "main.html", {})
+    response = "water"
+    if user_input != "":
+        response= "waltermercado"
+    
+    return render(request, "main.html", {"response": f"{response}"})
