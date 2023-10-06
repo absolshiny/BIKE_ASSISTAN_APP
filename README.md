@@ -33,11 +33,11 @@ _INSTRUCTIONS: Complete all required deliverable sections below._
 
 ### The issue we are hoping to solve
 
-REPLACE THIS SENTENCE with a short description, 2-3 sentences in length, of the specific sustainability problem your solution is meant to address.
+Bike is one of the cleanest ways one can travel, most big cities in the world have some form of bike infrastructure, thought many times when planning a short or long trip we may forget important stuff, like how is the weather going to be, did whe charged the lights?, When was the last time we did maintenance to the bike? Keeping track of this kind of issues might help you have a safer trip and avoid inconveniences.
 
 ### How our technology solution can help
 
-REPLACE THIS SENTENCE with a short description of your team's solution, in about 10 words.
+Bike is one of the cleanes ways to travel it is proveen that not only has a lower CO2 footprint than most other means of tranportation but also is good for the health and the mental wellbeing. We aim to promote the use of bike as a mean of transportation with this app.
 
 ### Our idea
 
